@@ -1,5 +1,5 @@
 # MaoKen-FreeFonts
-收录猫啃网发布的免费字体。本人更新于2023年4月4日
+收录猫啃网发布的免费字体。本人更新于2023年4月27日
 | **字体作者** | 字体名称 | AUR地址|备注|
 | :----: | :----: | :----: | :----: |
 | **云峰字库** | [云峰静龙行书](https://www.maoken.com/freefonts/16178.html) <br> [云峰飞云体](https://www.maoken.com/freefonts/16607.html) <br> [云峰寒蝉体](https://www.maoken.com/freefonts/18085.html) |||
@@ -10,7 +10,7 @@
 | **字体圈** | [字体圈欣意冠黑体](https://www.maoken.com/freefonts/3664.html) <br> [字体圈欣意吉祥宋](https://www.maoken.com/freefonts/8943.html) <br> [字体圈伟君黑](https://www.maoken.com/freefonts/17052.html) |||
 | **猫啃** | [猫啃网糖圆体](https://www.maoken.com/freefonts/6058.html) <br> [猫啃网臻雅宋](https://www.maoken.com/freefonts/7006.html) <br> [猫啃网风雅宋](https://www.maoken.com/freefonts/7026.html) <br> [猫啃网文明宋](https://www.maoken.com/freefonts/7658.html) <br> [猫啃网烟波宋](https://www.maoken.com/freefonts/7911.html) <br> [猫啃网扛重族](https://www.maoken.com/freefonts/11067.html) <br> [猫啃网扛重族宋](https://www.maoken.com/freefonts/11876.html) <br> [猫啃网故障黑](https://www.maoken.com/freefonts/14318.html) <br> [猫啃网秀雅圆](https://www.maoken.com/freefonts/15394.html) <br> [猫啃网故障宋](https://www.maoken.com/freefonts/15861.html) <br> [猫啃什锦黑](https://www.maoken.com/freefonts/16964.html) <br> [猫啃珠圆体](https://www.maoken.com/freefonts/17948.html) |||
 | **铢钧的字** | [粗宋](https://www.maoken.com/freefonts/11089.html) <br> [柳宋](https://www.maoken.com/freefonts/11271.html) <br> [坊宋](https://www.maoken.com/freefonts/13709.html) <br> [台北字体](https://www.maoken.com/freefonts/15633.html) <br> [目哉像素体](https://www.maoken.com/freefonts/16894.html) <br> [QuanPixel/全小素](https://www.maoken.com/freefonts/15806.html) |||
-| **落霞孤鹜** | [小赖字体](https://www.maoken.com/freefonts/4306.html) <br> [悠哉字体](https://www.maoken.com/freefonts/5423.html) <br> [霞鹜975黑体](https://www.maoken.com/freefonts/6327.html) <br> [975圆体](https://www.maoken.com/freefonts/6339.html) <br> [霞鹜975朦胧黑体](https://www.maoken.com/freefonts/7146.html) <br> [霞鹜晰黑](https://www.maoken.com/freefonts/8781.html) <br> [霞鹜新晰黑](https://www.maoken.com/freefonts/8999.html) <br> [霞鹜漫黑](https://www.maoken.com/freefonts/9523.html) <br> [霞鹜文楷](https://www.maoken.com/freefonts/9704.html) <br> [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) <br> [霞鹜臻楷](https://www.maoken.com/freefonts/14773.html) <br> [霞鶩文楷TC](https://www.maoken.com/freefonts/16424.html) <br> [霞鹜文楷 GB](https://www.maoken.com/freefonts/16864.html) |||
+| **落霞孤鹜** | [小赖字体](https://www.maoken.com/freefonts/4306.html) <br> [悠哉字体](https://www.maoken.com/freefonts/5423.html) <br> [霞鹜975黑体](https://www.maoken.com/freefonts/6327.html) <br> [975圆体](https://www.maoken.com/freefonts/6339.html) <br> [霞鹜975朦胧黑体](https://www.maoken.com/freefonts/7146.html) <br> [霞鹜晰黑](https://www.maoken.com/freefonts/8781.html) <br> [霞鹜新晰黑](https://www.maoken.com/freefonts/8999.html) <br> [霞鹜漫黑](https://www.maoken.com/freefonts/9523.html) <br> [霞鹜文楷](https://www.maoken.com/freefonts/9704.html) <br> [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) <br> [霞鹜臻楷](https://www.maoken.com/freefonts/14773.html) <br> [霞鶩文楷TC](https://www.maoken.com/freefonts/16424.html) <br> [霞鹜文楷 GB](https://www.maoken.com/freefonts/16864.html) <br> [霞鹜新致宋](https://www.maoken.com/freefonts/18476.html)|||
 | **标小智** | [标小智无界黑](https://www.maoken.com/freefonts/16766.html) <br> [标小智龙珠体](https://www.maoken.com/freefonts/17684.html) |||
 | **Aa字库** | [Aa剑豪体](https://www.maoken.com/freefonts/15675.html) <br> [Aa厚底黑](https://www.maoken.com/freefonts/16733.html) |||
 | **字体传奇** | [字体传奇特战体](https://www.maoken.com/freefonts/5307.html) <br> [字体传奇南安体](https://www.maoken.com/freefonts/10620.html) <br> [字体传奇雪家黑](https://www.maoken.com/freefonts/16626.html) |||
@@ -111,3 +111,5 @@
 | **荣耀** | [HONOR Sans/荣耀字体](https://www.maoken.com/freefonts/17391.html) |||
 | **汉仪字库 x 华为** | [HarmonyOS Sans/鸿蒙HarmonyOS字体](https://www.maoken.com/freefonts/11157.html) |||
 | **OPPO** | [OPPO Sans](https://www.maoken.com/freefonts/1333.html) |||
+| **nukosuki** | [大正活字](https://www.maoken.com/freefonts/18539.html) |||
+| **字魂** | [字魂扁桃体](https://www.maoken.com/freefonts/18575.html) |||
